@@ -1,1 +1,1 @@
-This is a placeholder and will be filled in prior to journal submission.
+Functions to implement Bayesian ETAS models are in Schneider-et-al-2025-B-ETAS.cpp and (with informed priors) in Schneider-et-al-2025-B-ETAS-priors.cpp. Code to run these functions on different subsets of the PNW catalog are in Schneider-et-al-2025-model-runs.R.
